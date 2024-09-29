@@ -21,7 +21,7 @@ Welcome to the Subscription Plan Website! This project showcases a simple and re
 
 To view the project locally, follow these steps:
 
- Open the `index.html` file in your preferred web browser.
+ Open the https://shanmugapriya-1994.github.io/Simple-Subscription-website/ file in your preferred web browser.
 
 ## Future Improvements
 
